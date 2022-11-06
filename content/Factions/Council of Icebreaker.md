@@ -1,0 +1,2 @@
+A long time ago, the Borealis had a job. Now it just has a hustle. No longer required to break through the Ice Plane and provide life-sustaining water, it’s been turned into a glittering vice district, a paradise for the weary traveler and a place where fortunes can be made or lost. Overseeing it is the Council of Icebreaker, a council of executives, casino owners, profiteers and the occasional guild rep who was too popular or influential to shut out. ^summary
+
