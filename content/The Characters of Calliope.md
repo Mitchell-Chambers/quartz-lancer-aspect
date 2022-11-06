@@ -1,5 +1,5 @@
 # Hell's Gate
-## [[Characters/Hell's Gate/Jerry Masters|Jerry Masters]]
+## [[Characters/Hell's Gate/Jerry Masters]]
 ![[Characters/Hell's Gate/Jerry Masters#^quote]]
 ## [[Shelly | Shelly]]
 ![[Shelly#^quote]]
