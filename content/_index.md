@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: "Quartz 3"
 enableToc: false
 ---
 Welcome to Calliope, Chosen.

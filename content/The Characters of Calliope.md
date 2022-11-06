@@ -1,3 +1,7 @@
+---
+title: "Characters"
+enableToc: false
+---
 # Hell's Gate
 ## [[Characters/Hell's Gate/Jerry Masters]]
 ![[Characters/Hell's Gate/Jerry Masters#^quote]]
