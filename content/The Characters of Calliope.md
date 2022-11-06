@@ -1,7 +1,7 @@
 # Hell's Gate
 ## [[Characters/Hell's Gate/Jerry Masters]]
 ![[Characters/Hell's Gate/Jerry Masters#^quote]]
-## [[Shelly | Shelly]]
+## [[Characters/Hell's Gate/Shelly|Shelly]]
 ![[Shelly#^quote]]
 ## [[Characters/Hell's Gate/Chief McElroy|Chief McElroy]]
 ![[Characters/Hell's Gate/Chief McElroy#^quote]]
