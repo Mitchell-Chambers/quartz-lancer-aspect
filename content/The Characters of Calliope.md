@@ -3,20 +3,20 @@ title: "Characters"
 enableToc: false
 ---
 # Hell's Gate
-## [[Characters/Hell's Gate/Jerry Masters]]
-![[Characters/Hell's Gate/Jerry Masters#^quote]]
-## [[Characters/Hell's Gate/Shelly|Shelly]]
-![[Shelly#^quote]]
-## [[Characters/Hell's Gate/Chief McElroy|Chief McElroy]]
-![[Characters/Hell's Gate/Chief McElroy#^quote]]
-## [[Zinfandel DeJean|Zinfandel Dejean]]
-![[Zinfandel DeJean#^quote]]
-## [[Siren|Siren]]
-![[Siren#^quote]]
-## [[Ipswitch Delacey|Ipswitch Delacey]]
-![[Ipswitch Delacey#^quote]]
-## [[Striga von Aldenberg | Striga von Aldenberg]]
-![[Striga von Aldenberg#^quote]]
+## [[Characters/Hells Gate/Jerry Masters]]
+![[Characters/Hells Gate/Jerry Masters#^quote]]
+## [[Characters/Hells Gate/Shelly|Shelly]]
+![[Characters/Hells Gate/Shelly#^quote]]
+## [[Characters/Hells Gate/Chief McElroy|Chief McElroy]]
+![[Characters/Hells Gate/Chief McElroy#^quote]]
+## [[Characters/Hells Gate/Zinfandel DeJean|Zinfandel Dejean]]
+![[Characters/Hells Gate/Zinfandel DeJean#^quote]]
+## [[Characters/Hells Gate/Siren|Siren]]
+![[Characters/Hells Gate/Siren#^quote]]
+## [[Characters/Hells Gate/Ipswitch Delacey|Ipswitch Delacey]]
+![[Characters/Hells Gate/Ipswitch Delacey#^quote]]
+## [[Characters/Hells Gate/Striga von Aldenberg | Striga von Aldenberg]]
+![[Characters/Hells Gate/Striga von Aldenberg#^quote]]
 ## Cerulean Enceladus
 > *The city's least popular fence, and it's most popular barista.*
 ## Boss Teka Ashenafi

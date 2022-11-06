@@ -1,3 +1,3 @@
-![[Characters/Hell's Gate/Chief McElroy]]
+![[../../Characters/Hells Gate/Chief McElroy]]
 
 # THE TRUTH
