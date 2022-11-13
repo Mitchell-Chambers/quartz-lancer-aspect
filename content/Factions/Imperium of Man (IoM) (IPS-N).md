@@ -1,3 +1,6 @@
-# Imperium of Man
+Interplanetary Shipping-Northstar is firmly dedicated to delivering outstanding products with unparalleled quality of service in a no-nonsense package, ensuring swift, safe, secure delivery to any point in the galaxy. While Smith-Shimano obsess over form and Harrison Armory loses itself in its political delusions, IPS-N is here for one thing only: to deliver raw functionality. ^summary
+
+Which is to say that while the other corprostates have complex motivations, there’s nothing to IPS-N but pure, unfeeling capitalism. Calliopeans with a background in IPS-N tend to be here for one of two reasons: they’re here temporarily as part of an assignment, or they’re someone IPS-N wants rid of. The majority of the Long Rim’s nadir shipping routes pass through Calliope and so IPS-N needs a regional office there, but nobody wants to work there. Thusly, reassignment to the Calliopean branch office is a common threat made to underperforming workers; it’s rarely carried out, but not never. Likewise, unpopular or low-value crew members on IPS-N vessels often get a “Calliope layover” – their ship departs without them. They’re told the next one with a personnel vacancy will be along in a few months, but the writing is on the wall: if your last ship didn’t want you, the next one won’t either. IPS-N Calliopeans (“Callipsans”) tend to be divided into those who are still trying to impress the corporation that marooned them here, and those who’ve turned their backs on it and are trying to make the best of things.
 
 # The Truth
+

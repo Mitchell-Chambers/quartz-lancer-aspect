@@ -1,0 +1,9 @@
+A common theme of Calliopean culture is the idea that all are part of a part of a shared struggle. 
+
+There’s a saying: “the richest ass in Calliope sits a day further from death.” Money can’t patch a splintered hull, grow a bundle of rice or run new ley lines; only people can do that. 
+
+Calliopean philosophy is clear: you need people, and people need you, whether or not you admit it. Calliopeans tend to be multi-talented, with every adult and most children knowing basic runecraft and medicine. Common wisdom says anyone who’s sixteen years old should be able to 
+
+patch an air leak, swap a water filter and treat acute radiation sickness. 
+
+Most people in a city work shifts in maintenance teams from time to time, mostly on simple tasks like cleaning, rune replacement and local patch jobs. For more specialized work, there’s a large contingent of artificers and craftsmen known to Calliopeans as “maggies.” Maggies have their own subculture, with its own dialect and an array of colorful superstitions about Calliope’s unreliable magic. Outside of keeping a city and its people safe from the unnatural world, Calliopeans occupy their free time with pursuits that can hold their attention and contribute something to their community: music, art, writing, storytelling, cooking, enchanting. Anything’s good, so long as it can bring others joy as well. Either your hobby or your profession should give back to the community; and ideally, both. This theme pervades Calliope’s cultural output: a lot of its songs and stories aren’t about a person, but people; people in a tough situation, working together and helping each other. A cultural scribe once pegged Calliope’s biggest cultural export as “catchy work songs,” and it wasn’t without a hint of truth.

@@ -1,6 +1,6 @@
 ---
 banner: "![[jerry-masters.png]]"
-banner_y: 0.9
+banner_y: 1
 ---
 # JERRY MASTERS
 #### INTERIM CITY MAGISTRATE
