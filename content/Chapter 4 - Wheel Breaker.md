@@ -1,6 +1,4 @@
 
-
-
 # Mission 4 - Detect Traps
 >There was a dream in a dark place that spoke so loud a universe followed in its wake.
 > 	- Sarah Zedig, “Godfeels”
